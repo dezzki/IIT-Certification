@@ -1,0 +1,66 @@
+[
+  {
+    "color": "default",
+    "type": "charizard",
+    "size": "large",
+    "name": "parth",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "hitmonlee",
+    "size": "large",
+    "name": "vishu",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "squirtle",
+    "size": "large",
+    "name": "seheju",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "arcanine",
+    "size": "large",
+    "name": "rishabh",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "togepi",
+    "size": "large",
+    "name": "Tannu",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "snorlax",
+    "size": "large",
+    "name": "kalra",
+    "generation": "gen1",
+    "originalSpriteSize": 64
+  },
+  {
+    "color": "default",
+    "type": "porygon",
+    "size": "large",
+    "name": "Natya",
+    "generation": "gen1",
+    "originalSpriteSize": 64
+  },
+  {
+    "color": "default",
+    "type": "espeon",
+    "size": "large",
+    "name": "Tisha",
+    "generation": "gen1",
+    "originalSpriteSize": 64
+  }
+]

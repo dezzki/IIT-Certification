@@ -1,0 +1,50 @@
+[
+  {
+    "color": "default",
+    "type": "charizard",
+    "size": "large",
+    "name": "Warlord",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "mew",
+    "size": "large",
+    "name": "Himu",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "squirtle",
+    "size": "large",
+    "name": "Boss",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "chikorita",
+    "size": "large",
+    "name": "Cheeku",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "cubone",
+    "size": "large",
+    "name": "Cubone",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "lugia",
+    "size": "large",
+    "name": "Birdie",
+    "generation": "gen2",
+    "originalSpriteSize": 64
+  }
+]
